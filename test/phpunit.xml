@@ -1,0 +1,22 @@
+<phpunit
+        colors="true"
+        processIsolation="false"
+        stopOnError="false"
+        stopOnFailure="false"
+        stopOnIncomplete="false"
+        stopOnSkipped="false"
+        stopOnRisky="false"
+>
+    <testsuites>
+        <testsuite name="Default">
+            <directory suffix="Test.php">./src</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">./src</directory>
+            <exclude>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>

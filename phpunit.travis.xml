@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!--
-PHPUnit configuration file to run chippyash\Simple-Accounts tests
+PHPUnit configuration file to run chippyash\identity tests
 -->
 
 <!--
@@ -40,9 +40,7 @@ testSuiteLoaderFile="/path/to/StandardTestSuiteLoader.php"
         <blacklist>
             <directory>./vendor</directory>
             <!-- don't cover interfaces -->
-            <file>./src/chippyash/Accounts/AccountStorageInterface</file>
-            <!-- don't cover empty files -->
-            <file>./src/chippyash/Accounts/Nominal</file>
+            <file>./src/Identity/Identifiable</file>
         </blacklist>
     </filter>
 
