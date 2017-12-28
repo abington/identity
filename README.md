@@ -5,8 +5,8 @@
 ![PHP 5.6](https://img.shields.io/badge/PHP-5.6-blue.svg)
 ![PHP 7](https://img.shields.io/badge/PHP-7-blue.svg)
 [![Build Status](https://travis-ci.org/chippyash/Identity.svg?branch=master)](https://travis-ci.org/chippyash/Identity)
-[![Test Coverage](https://codeclimate.com/github/chippyash/Identity/badges/coverage.svg)](https://codeclimate.com/github/chippyash/Identity/coverage)
-[![Code Climate](https://codeclimate.com/github/chippyash/Identity/badges/gpa.svg)](https://codeclimate.com/github/chippyash/Identity)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fc8854ae418eacd98d3d/test_coverage)](https://codeclimate.com/github/chippyash/identity/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fc8854ae418eacd98d3d/maintainability)](https://codeclimate.com/github/chippyash/identity/maintainability)
 
 See the [Test Contract](https://github.com/chippyash/identity/blob/master/docs/Test-Contract.md)
 
