@@ -38,13 +38,15 @@ testSuiteLoaderFile="/path/to/StandardTestSuiteLoader.php"
      !-->
     <filter>
         <whitelist processUncoveredFilesFromWhitelist="true">
-            <directory suffix=".php">../src</directory>
+            <directory suffix=".php">./src</directory>
             <exclude>
-                <file>../src/Identity/Identifiable</file>
+                <file>./src/Identity/Identifiable</file>
             </exclude>
         </whitelist>
     </filter>
-
+    <logging>
+        <log type="coverage-clover" target="./build/logs/clover.xml"/>
+    </logging>
 
 </phpunit>
 
