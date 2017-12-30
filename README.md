@@ -12,7 +12,7 @@ See the [Test Contract](https://github.com/chippyash/identity/blob/master/docs/T
 
 ## What?
 
-Provides a sinple helper capability for class Identity management
+Provides a simple helper capability for class Identity management
 
 ## Why?
 
@@ -37,7 +37,7 @@ class to supply the functionality.
 
 Identities are based on Chippyash\Type\Interfaces\TypeInterface.  This allows for
 strong typing and enforcement of identity rules.  For instance, here is an example
-of a a product ide that is a fixed length digit string.
+of a product id that is a fixed length digit string.
 
 <pre>
 use Chippyash\Type\String\DigitType;
@@ -160,3 +160,5 @@ license, which does not allow unrestricted inclusion of this code in commercial 
 ## History
 
 V1.0.0 Original release
+
+V1.0.1 Updates for build running 
