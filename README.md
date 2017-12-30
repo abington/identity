@@ -4,7 +4,7 @@
 
 ![PHP 5.6](https://img.shields.io/badge/PHP-5.6-blue.svg)
 ![PHP 7](https://img.shields.io/badge/PHP-7-blue.svg)
-[![Build Status](https://travis-ci.org/chippyash/Identity.svg?branch=master)](https://travis-ci.org/chippyash/Identity)
+[![Build Status](https://travis-ci.org/chippyash/identity.svg)](https://travis-ci.org/chippyash/Identity)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/fc8854ae418eacd98d3d/test_coverage)](https://codeclimate.com/github/chippyash/identity/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/fc8854ae418eacd98d3d/maintainability)](https://codeclimate.com/github/chippyash/identity/maintainability)
 
