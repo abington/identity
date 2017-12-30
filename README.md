@@ -90,7 +90,7 @@ class Product implements Identifiable
 {
 	use Identifying;
 	
-	public function __construct(Identity $id)
+	public function __construct(Identifier $id)
 	{
 		$this->id = $id;
 		//or maybe there is some other way of establishing the identity
