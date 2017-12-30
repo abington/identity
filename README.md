@@ -96,6 +96,11 @@ class Product implements Identifiable
 		//or maybe there is some other way of establishing the identity
 	}
 }
+
+$product = new Product(new Identifier(53));
+$id = $product->id(); // returns Identifier
+$vId = $product->vId(); //returns '0000000053'
+$vId = $product->id()->get(); //returns '0000000053'
 </pre>
 
 ### Changing the library
@@ -161,4 +166,6 @@ license, which does not allow unrestricted inclusion of this code in commercial 
 
 V1.0.0 Original release
 
-V1.0.1 Updates for build running 
+V1.0.1 Updates for build running
+
+V1.0.2 Documentation update
