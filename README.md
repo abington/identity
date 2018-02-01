@@ -169,3 +169,5 @@ V1.0.0 Original release
 V1.0.1 Updates for build running
 
 V1.0.2 Documentation update
+
+V1.0.3 composer.json fix
