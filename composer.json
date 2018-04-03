@@ -14,7 +14,8 @@
   "minimum-stability": "stable",
 
   "require": {
-    "chippyash/strong-type": ">=3,<4"
+    "php": ">=5.6",
+    "chippyash/strong-type": ">=5,<6"
   },
 
   "require-dev": {
