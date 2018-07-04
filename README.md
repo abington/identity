@@ -154,13 +154,9 @@ To run the tests:
 
 ## License
 
-This software library is released under the [GNU GPL V3 or later license](http://www.gnu.org/copyleft/gpl.html)
+This software library is released under the [BSD 3 Clause license](https://opensource.org/licenses/BSD-3-Clause)
 
-This software library is Copyright (c) 2017, Ashley Kitson, UK
-
-A commercial license is available for this software library, please contact the author. 
-It is normally free to deserving causes, but gets you around the limitation of the GPL
-license, which does not allow unrestricted inclusion of this code in commercial works.
+This software library is Copyright (c) 2015, Ashley Kitson, UK
 
 ## History
 
@@ -173,3 +169,5 @@ V1.0.2 Documentation update
 V1.0.3 composer.json fix
 
 V1.0.4 dependency update
+
+V1.1.0 Change of license from GPL V3 to BSD 3 Clause
